@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Pname: MyString
+  quality: 1
+  Farmerid: 1
+  Productid: 1
+
+two:
+  Pname: MyString
+  quality: 1
+  Farmerid: 1
+  Productid: 1
